@@ -1,5 +1,5 @@
 {
-  "name": "my-app",
+  "name": "rac",
   "version": "0.1.0",
   "private": true,
   "scripts": {
@@ -19,6 +19,7 @@
     "react-icons": "^4.12.0",
     "react-slick": "^0.29.0",
     "react-spring": "^9.7.3",
+    "sharp": "^0.34.4",
     "slick-carousel": "^1.8.1"
   },
   "devDependencies": {
