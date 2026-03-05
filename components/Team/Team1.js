@@ -88,7 +88,7 @@ const teamMembers = [
     email: 'email: garimakc425@gmail.com',
   },
   {
-    name: 'Diksha Timilsina',
+    name: 'Diksha Timalsina',
     position: 'General Member',
     image: '/assets/dikshaTimalsina.jpg',
     batch: 'Batch: 080 BEI',
